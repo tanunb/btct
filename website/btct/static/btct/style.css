@@ -1,0 +1,50 @@
+body{
+    background: black;
+}
+
+.navbar {
+	border-radius: 0;
+}
+.navbar-brand{
+	font-family: 'Satisfy', cursive;
+}
+.article-center{
+	width: 50%;
+    margin: 25px auto;
+	color: whitesmoke;
+	background: grey;
+	padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+	padding-left: 50px;
+	display: block;
+}
+.article-topic{
+	color: white;
+	text-align: center;
+	margin: auto;
+	margin-left: 10%;
+    margin-right: 10%;
+}
+.article-content{
+	color: white;
+	margin: auto;
+	padding-top: 10px;
+	padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+	overflow: auto;
+	background-color: #000000;
+	word-wrap: break-word;
+	line-height: inherit;
+}
+.article-date{
+	color:white;
+	text-align: center;
+	margin: auto;
+	padding-bottom: 5px;
+}
+.article-block{
+	padding-bottom: 50px;
+	background-color: #808080;
+}
